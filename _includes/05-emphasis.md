@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# AWESOME SKILLS
+
+i can **play** just about *everything!*
+
+*__cachow!!!__*
