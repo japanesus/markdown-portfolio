@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# LISTS AMONGST LISTS
+- who?
+- what?
+- when?
+- where?
+- why?
